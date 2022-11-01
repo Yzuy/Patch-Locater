@@ -1,2 +1,2 @@
-# Patch-Locater
-Vulnerability cause&consequence mapping dictionary of Patch-Locater
+# Patch-Locator
+Vulnerability cause&consequence mapping dictionary of Patch-Locator
